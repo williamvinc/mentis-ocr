@@ -1,0 +1,42 @@
+ROOM CATEGORY,PUBLISHED RATE,CONTRACT RATE
+Deluxe,"IDR 2,600,000 ++","IDR 1,996,500"
+Deluxe Premier,"IDR 3,100,000 ++","IDR 2,404,875"
+Suite,"IDR 5,100,000 ++","IDR 3,993,000"
+
+SEASON,PERIOD,ALLOTMENT CUT OF DATE,SURCHARGE PER ROOM
+Normal Season,01 April - 30 June 01 September - 20 December 11 January - 31 March,7 Days,n/a
+High Season,01 July - 31 August,14 Days,"IDR 350,000 nett"
+Peak Season,21 December - 10 January,21 Days,"IDR 500,000 nett"
+
+TYPE OF TRANSPORTATION,RATES
+JOGJA: Car with maximum capacity of 3 adults,"IDR 550,000 nett per car per way"
+SOLO: Car with maximum capacity of 3 adults,"IDR 1,000,000 nett per car per way"
+SEMARANG: Car with maximum capacity of 3 adults,"IDR 1,000,000 nett per car per way"
+
+TYPE OF MEAL,SERVING TIME,ADULT,CHILD (< 12 YO)
+Breakfast: Choice of American or Continental or Indonesian,06:00 10:00,"IDR 175,000 nett","IDR 87,500 nett"
+Lunch: 3-Course Set Menu,12:00 15:00,"IDR 275,000 nett","IDR 137,500 nett"
+Dinner: 3-Course Set Menu,18:00 23:00,"IDR 385,000 nett","IDR 192,500 nett"
+Candle-lit dinner: 4-Course Set Menu Including a bottle of wine or sparkling juice and signature setup (price per couple),18:00 - 23:00,"IDR 1,650,000 nett","IDR 825,000 nett"
+
+EVENT,PERIOD,ADULT,CHILD (< 12 YO)
+Christmas Eve,24 December,"IDR 550,000 nett","IDR 275,000 nett"
+New Years Eve Compulsory,31 December,"IDR 825,000 nett","IDR 412,500 nett"
+
+SEASON,DAYS PRIOR TO ARRIVAL,PENALTY
+Normal Season 01 April - 30 June 01 September - 20 December,7 Days,One night room charge
+,4 6 Days,50% from total room charge
+11 January - 31 March,1 3 Days,100% from total room charge
+High Season,14 Days,One night room charge
+,7 13 Days,50% from total room charge
+01 July - 31 August,1 6 Days,100% from total room charge
+Peak Season,21 Days,One night room charge
+,11 20 Days,50% from total room charge
+21 December - 10 January,1 10 Days,100% from total room charge
+
+Beneficiary,: PT. PLATARAN INDONESIA
+Name of Bank,: Bank Central Asia (BCA)
+Bank Address,": Menara City Center, Jakarta"
+IDR A/C No.,: 546-031-7217
+Swift Code,: CENAIDJA
+
